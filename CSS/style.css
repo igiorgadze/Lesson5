@@ -1,0 +1,92 @@
+
+.title-text {
+    font-size: 14px;
+    color: #5863F8;
+    margin: 82px 1111px 1px 163px;
+}
+.title-text2 {
+    font-size: 42px;
+    margin-top: 1px;
+    margin-right: 705px;
+    margin-left: 163px;
+}
+.home-blocks {
+    margin-left: 163px;
+    margin-bottom: 16px;
+}
+.home-left-block,
+.home-right-block {
+    background-color: #F8F8F8;
+    width: 536px;
+}
+.home-right-block {
+    float:left;
+    margin-right: 16px;
+}
+.f-left {
+    display: inline-block;
+}
+.texts-wraper {
+    width: 260px;
+    display: inline-block;
+}
+.text-h2 {
+    font-size: 14px;
+    color: #5863F8;
+   margin-left: 16px;
+}
+.text {
+    font-size: 14px;
+    color :#B1B1B1;
+    margin-left: 16px;
+}
+.text-h3 {
+    font-size: 18px;
+    margin-left: 16px;
+}
+.texts-blocks h2 {
+    font-size: 14px;
+    color: #5863F8;
+}
+.texts-blocks h3 {
+    font-size: 18px;
+    color: #000000;
+}
+.texts-blocks p {
+    font-size: 14px;
+    color: #B1B1B1;
+
+}
+.box1 {
+    width: 352px;
+    background-color: #F8F8F8;
+    float: left;
+}
+.size {
+    margin-right: 16px;
+}
+.texts-blocks {
+    text-align: center;
+}
+.box1-p {
+    width: 260px;
+    text-align: center;
+    display: inline-block;
+}
+.container2 {
+    float: left;
+    clear: both;
+    margin-left: 163px;
+}
+.container3 {
+    float: left;
+    clear: both;
+    margin-left: 163px;
+    margin-top: 16px;
+}
+*a {
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
